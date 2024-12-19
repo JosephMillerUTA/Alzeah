@@ -1,5 +1,5 @@
 ## Alzeah by [ai16z](https://x.com/ai16zdao)
-CA: E5N7tkdr7wKpZaWGYGmAs2MidgEP1mW1hUCzM8YMpump
+
 ![banner](https://pbs.twimg.com/profile_banners/1869129935258091520/1734471489/1500x500)
 
 Welcome to the official Alzeah repository! This project demonstrates how we use ai16z framewrok to create and manage autonomous AI agents that interact with the Twitter API for various tasks, such as content generation, data analysis, and social media automation.
